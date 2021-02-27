@@ -1,3 +1,4 @@
+//owop-js created by dimden, like everything modified by mathias377 and modified a bit tiny 1 line by enix
 (() => {
   let isBrowser = typeof window !== "undefined";
   let OWOPUnlocked = (() => {
